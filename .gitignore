@@ -1,0 +1,5 @@
+*.tfvars
+*.tfstate*
+*.tfplan
+
+!terraform.tfvars.json
